@@ -1,0 +1,31 @@
+ h1 {
+        text-align: center;
+        color: white;
+    }
+    
+    body {
+        font-family: Helvetica;
+    }
+    
+    .lesson {
+        background-color: #294860;
+        border-radius: 20px;
+        color: white;
+        padding: 10px;
+    }
+    
+    h2 {
+        margin: 10px;
+    }
+    
+    .concept {
+        background-color: #DFEAF1;
+        padding: 4px;
+        margin: 10px;
+        border-radius: 4px;
+        color: black;
+    }
+li {
+        position: relative;
+        left: 20px;
+    }
